@@ -6,7 +6,7 @@ Algoritmi basati sul confronto:
 -quick sort
 -heap sort
 
-Algoritmi NON basati sul confronto:
+Algoritmi <b>non</b> basati sul confronto:
 -integer sort
 -bucket sort
 -radix sort
