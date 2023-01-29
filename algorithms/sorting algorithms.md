@@ -3,7 +3,7 @@
 
 #### Algoritmi basati sul confronto:
 - [selection sort](https://github.com/Biggiogero/Algorithms-and-data-structures/blob/main/algorithms/sorting%20algorithms.md#selection-sort)
-- insertion sort
+- [insertion sort](https://github.com/Biggiogero/Algorithms-and-data-structures/blob/main/algorithms/sorting%20algorithms.md#insertion-sort)
 - bubble sort
 - merge sort
 - quick sort
