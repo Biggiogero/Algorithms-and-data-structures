@@ -11,11 +11,3 @@
 - bucket sort
 - radix sort
 
-
->Questa è un’**area rientrata**.
->L’area prosegue anche qui.
-
->Questa è un‘altra **area rientrata**.
-Anche quest’area continua nella riga successiva.
-
-Questa riga invece non è più rientrata.
