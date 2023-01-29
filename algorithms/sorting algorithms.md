@@ -16,3 +16,5 @@
 
 ## Selection sort
 Il selection sort ordina un array trovando ripetutamente l'elemento minimo dalla parte non ordinata e inserendolo all'inizio di questa. 
+**Time complexity**: $Theta(n^2)$
+**Auxiliary space**: $O(1)$
