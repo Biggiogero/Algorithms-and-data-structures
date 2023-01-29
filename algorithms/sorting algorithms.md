@@ -1,3 +1,6 @@
+# Divide et impera
+>
+
 #### Algoritmi basati sul confronto:
 - selection sort
 - insertion sort
