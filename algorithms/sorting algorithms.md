@@ -11,4 +11,4 @@
 - bucket sort
 - radix sort
 
-# alakazam
+## Selection sort
