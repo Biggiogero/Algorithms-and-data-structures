@@ -1,4 +1,4 @@
-## Algoritmi basati sul confronto:
+#### Algoritmi basati sul confronto:
 - selection sort
 - insertion sort
 - bubble sort
