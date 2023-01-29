@@ -2,7 +2,7 @@
 >
 
 #### Algoritmi basati sul confronto:
-- selection sort
+- [selection sort](https://github.com/Biggiogero/Algorithms-and-data-structures/blob/main/algorithms/sorting%20algorithms.md#selection-sort)
 - insertion sort
 - bubble sort
 - merge sort
