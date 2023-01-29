@@ -22,4 +22,3 @@ for k=0 to n-2 do
  	for j=k+2 to n do
  	     if (A[j] < A[m]) then m=j
        scambia A[m] con A[k+1]	
-![image](https://user-images.githubusercontent.com/123819651/215297947-9c09cf14-9803-4481-ac32-656a1fdeb017.png)
