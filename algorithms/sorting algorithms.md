@@ -17,8 +17,5 @@
 ## Selection sort
 Il selection sort ordina un array trovando ripetutamente l'elemento minimo dalla parte non ordinata e inserendolo all'inizio di questa. 
 
-`for k=0 to n-2 do`
-` 	m = k+1`
-` 	for j=k+2 to n do`
-` 	     if (A[j] < A[m]) then m=j`
-`       scambia A[m] con A[k+1]	`
+![image](https://user-images.githubusercontent.com/123819651/215298082-336a7a5d-dd5e-4035-b5ca-608f1edb58a3.png)
+
