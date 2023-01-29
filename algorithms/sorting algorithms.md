@@ -10,3 +10,8 @@ Algoritmi **non** basati sul confronto:
 - integer sort
 - bucket sort
 - radix sort
+
+|Cella 1|Cella 2|
+|--------|--------|
+|  A  |  B  |
+|  C  |  D  |
