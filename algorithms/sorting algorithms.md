@@ -15,3 +15,4 @@
 - radix sort
 
 ## Selection sort
+Il selection sort ordina un array trovando ripetutamente l'elemento minimo dalla parte non ordinata e inserendolo all'inizio di questa. 
